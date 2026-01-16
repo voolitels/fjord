@@ -1,7 +1,7 @@
 # Requirements that need to be updated first
 
 # sha256: L6IwcnEEsH5SLe7BeSnoTgQckEfjksBVNHoCsNXKh00
-setuptools==18.3.1
+setuptools==78.1.1
 
 # Requirements from github urls because we're using non-released things
 
@@ -27,22 +27,22 @@ amqp==1.4.6
 anyjson==0.3.3
 
 # sha256: RJiN8ZESMGWvmFfspo6RUVJqkxwSZZyimQTk8R3n7Bs
-Babel==2.0
+Babel==2.17.0
 
 # sha256: aI-UZrHDrhQQY4Hm29MoEV51xSYMVC60jmxGkx9pKMw
 billiard==3.3.0.20
 
 # sha256: FSrynUWAsRL8UpZoZEknkclR5jgrVgcOleEoxrYUgzs
-bleach==1.4.1
+bleach==6.2.0
 
 # sha256: y0Y3TzyIPFgNFCp50mCYg3E6hnzIbgUUFjrc54TOJGg
 carrot==0.10.7
 
 # sha256: CST5QHDG_FfUCLFphIxbOIMmaP_-Bg5ItIA_sj4OPq8
-celery==3.1.18
+celery==5.5.3
 
 # sha256: -SRFe9iReOVl_huQNZ2QY59STn2hqZmIKSR09S3vvzQ
-certifi==2015.9.6.1
+certifi==2024.7.4
 
 # sha256: 5T44s6Sv5tETLeYrdACkrDY0Utxd_PjYjo4MzmY8aKo
 chardet==2.3.0
@@ -60,7 +60,7 @@ cssselect==0.9.1
 dennis==0.7
 
 # sha256: LRdOSj9UcI0NW2_xv1SucWUug7sG11drOyDZFrKcNlM
-Django==1.8.5
+Django==4.2.22
 
 # sha256: JL4TJtBHNh5HWbqZkqyoPtZd9Vg3UN_ovoEOscEx2HY
 django-adminplus==0.3
@@ -75,7 +75,7 @@ django-extensions==1.5.6
 django-jinja==1.4.1
 
 # sha256: gaXcJP2OVA1azbPP7LRLZ4e84yig6b2Vgbd_eCHSVss
-django-grappelli==2.7.1
+django-grappelli==2.15.2
 
 # sha256: TEiNy4TP_Yi80rFlGWK3Z_m7JFIGQHyOpngEPNOdPKg
 django-multidb-router==0.6
@@ -96,7 +96,7 @@ django-statsd-mozilla==0.3.15
 django-waffle==0.11
 
 # sha256: Qdq1cn7hrrPVsooSatDSj7-A-DI4LNqj8HgRPx4kdxo
-djangorestframework==3.2.3
+djangorestframework==3.15.2
 
 # sha256: 4o-THuB1Rpz5wPzTUfeAHqCqbXiNAc2-g54qs1a4yjY
 eadred==0.3
@@ -117,10 +117,10 @@ funcsigs==0.4
 gengo==0.1.19
 
 # sha256: A3VLx7JWOXwbZG5QSOIpFZD1CAFxrbiwD04tc4THbu4
-GitPython==0.1.7
+GitPython==3.1.41
 
 # sha256: 43K2b0mX-OHelw6nVdClKNciLSqpvVWqwHjH7zm49sM
-html5lib==0.999999
+html5lib==0.999999999
 
 # sha256: fLtRSjUvghxpuOi9qmsuWXKFR6iWVQPHWGUsKCbRV7U
 importlib==1.0.3
@@ -153,7 +153,7 @@ python-memcached==1.48
 pytz==2015.4
 
 # sha256: OYo9ttYYmdJf1KBsbKEgUbDOFx1wXezX7VURUXtLuT0
-requests==2.7.0
+requests==2.32.4
 
 # sha256: ofEO5T_vaqxspUz7j9sbfKbaWdaOoajCGsUTIRhCrT4
 requests-mock==0.6.0
@@ -171,4 +171,4 @@ tldextract==1.7.1
 translate-toolkit==1.13.0
 
 # sha256: Gon6G0PSd8-t8ijMkLnHXyVIGOo6Gqt7_7AiPLt7sV0
-urllib3==1.8
+urllib3==2.5.0
